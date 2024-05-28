@@ -1,6 +1,9 @@
 # Born2beRoot - Virtual Machine Setup Project
 
-Welcome to my Born2beRoot project, a virtualization and system administration project I completed as part of the 42 school curriculum. This project involved setting up a secure and functional server environment using VirtualBox (or UTM) and Debian.
+Welcome to my Born2beRoot project, a virtualization and system administration project I completed as part of the 42 school curriculum. This project involved setting up a secure and functional server environment using VirtualBox and Debian.
+
+If you won't find the actual VM here, here is a quick recap of the features I implemented onto it.
+
 
 ## Features
 
